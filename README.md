@@ -1,7 +1,7 @@
-redwood - purely functional transformable free hierarchy
+redwood - purely functional hierarchical file system
 ======
 
-A scalaz free implementation of a generic hierarchy of elements
+A scalaz free implementation of a generic file system
 
 Adding to your application
 ------
