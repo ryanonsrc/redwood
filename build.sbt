@@ -44,6 +44,13 @@ pomExtra := (
           <role>Architect</role>
         </roles>
       </developer>
+      <developer>
+        <id>David Hoyt</id>
+        <name>David Hoyt</name>
+        <roles>
+          <role>Architect</role>
+        </roles>
+      </developer>
     </developers>
   )
 
